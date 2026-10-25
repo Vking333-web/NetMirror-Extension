@@ -3,12 +3,12 @@
         "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
         "fileHash": "sha256-26ea2b1d7c7b3f5ccc2e5bdb7a5dc01376fc767d72d8b62345fe2c6600531079",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+        "repositoryUrl": ""https://github.com/Vking333-web/Netoflix.git"
         "fileSize": 74587,
         "status": 1,
         "language": "hi",
         "authors": [
-            "Sushan64"
+            "Vking333-web"
         ],
         "tvTypes": [
             "Movie",
